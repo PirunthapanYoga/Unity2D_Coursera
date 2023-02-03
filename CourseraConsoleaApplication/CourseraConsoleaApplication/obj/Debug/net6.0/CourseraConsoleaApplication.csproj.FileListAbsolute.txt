@@ -1,0 +1,15 @@
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\bin\Debug\net6.0\CourseraConsoleaApplication.exe
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\bin\Debug\net6.0\CourseraConsoleaApplication.deps.json
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\bin\Debug\net6.0\CourseraConsoleaApplication.runtimeconfig.json
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\bin\Debug\net6.0\CourseraConsoleaApplication.dll
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\bin\Debug\net6.0\CourseraConsoleaApplication.pdb
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\obj\Debug\net6.0\CourseraConsoleaApplication.csproj.AssemblyReference.cache
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\obj\Debug\net6.0\CourseraConsoleaApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\obj\Debug\net6.0\CourseraConsoleaApplication.AssemblyInfoInputs.cache
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\obj\Debug\net6.0\CourseraConsoleaApplication.AssemblyInfo.cs
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\obj\Debug\net6.0\CourseraConsoleaApplication.csproj.CoreCompileInputs.cache
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\obj\Debug\net6.0\CourseraConsoleaApplication.dll
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\obj\Debug\net6.0\refint\CourseraConsoleaApplication.dll
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\obj\Debug\net6.0\CourseraConsoleaApplication.pdb
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\obj\Debug\net6.0\CourseraConsoleaApplication.genruntimeconfig.cache
+C:\Users\Pirunthapan Y\source\repos\CourseraConsoleaApplication\CourseraConsoleaApplication\obj\Debug\net6.0\ref\CourseraConsoleaApplication.dll

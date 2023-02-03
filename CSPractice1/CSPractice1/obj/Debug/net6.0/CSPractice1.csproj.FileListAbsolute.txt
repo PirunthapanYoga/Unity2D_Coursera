@@ -1,0 +1,15 @@
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\obj\Debug\net6.0\CSPractice1.csproj.AssemblyReference.cache
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\obj\Debug\net6.0\CSPractice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\obj\Debug\net6.0\CSPractice1.AssemblyInfoInputs.cache
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\obj\Debug\net6.0\CSPractice1.AssemblyInfo.cs
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\obj\Debug\net6.0\CSPractice1.csproj.CoreCompileInputs.cache
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\bin\Debug\net6.0\CSPractice1.exe
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\bin\Debug\net6.0\CSPractice1.deps.json
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\bin\Debug\net6.0\CSPractice1.runtimeconfig.json
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\bin\Debug\net6.0\CSPractice1.dll
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\bin\Debug\net6.0\CSPractice1.pdb
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\obj\Debug\net6.0\CSPractice1.dll
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\obj\Debug\net6.0\refint\CSPractice1.dll
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\obj\Debug\net6.0\CSPractice1.pdb
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\obj\Debug\net6.0\CSPractice1.genruntimeconfig.cache
+C:\Users\Pirunthapan Y\source\repos\CSPractice1\CSPractice1\obj\Debug\net6.0\ref\CSPractice1.dll
